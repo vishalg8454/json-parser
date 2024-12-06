@@ -2,6 +2,7 @@
 
 - Implements Tokenizer to split given string to tokens.
 - Implements Parser to parse tokens using Recursive Descent Parsing technique.
+- Test suite used https://github.com/nst/JSONTestSuite
 
 ## How to run
 - Clone the repo
